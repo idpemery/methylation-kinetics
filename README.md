@@ -4,4 +4,4 @@ This repository contains the scripts to analyze data as described in "Probing mu
 
 My apologies for the number of different languages used here. 
 
-Sample data is provided for the global fitting of kinetic data in matlab.
+Sample data is provided for the global fitting of kinetic data in MATLAB.
